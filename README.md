@@ -17,5 +17,11 @@ by pasting url the server will check the url in the database and will till you i
 
 to install please clone this repo
 
-
 ### Used
+
+just put your url and waite to receive the result
+the tool have a database that also check the background about every website that his check
+follow the images
+
+### Technology
+
